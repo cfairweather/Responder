@@ -1,5 +1,9 @@
+My code was unwelcome, even though I believe color to be a huge improvement that allows users to easily view Responder's output. I suppose I'll just keep it here. 
+
+
+Based on:
 NBT-NS/LLMNR Responder
-Laurent Gaffie <lgaffie@trustwave.com>
+
 http://www.spiderlabs.com
 
 INTRODUCTION
